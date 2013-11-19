@@ -33,7 +33,7 @@ public class Rational {
 	ans = ((float) num) / ((float) den);
 	return ans;
     }
-
+    
     public double getNum() {
 	return num;
     }
